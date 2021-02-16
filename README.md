@@ -23,3 +23,9 @@ Comentarios Isabela
 - Todo es responsive pero siento que en los celulares, las márgenes grises estorban un poco y hace que todos sea más pequeño de lo necesario.
 - Las reglas de css están bien nombradas.
 - Todo el código es válido, no hay ningún problema :)
+
+Comentarios Tobia Gasparoni:
+- Código sin errores en el validador de w3! ( https://validator.w3.org/nu/?doc=https%3A%2F%2Fpagina-personal-ojcastaneda.herokuapp.com%2F )
+- Tiene una paleta de colores muy definida. La estructura es clara gracias a los tamaños de letras y las negrillas.
+- Corregir el correo electrónico! @uniandes en vez de @unindes!
+- La estructura del código es lo suficientemente clara.
